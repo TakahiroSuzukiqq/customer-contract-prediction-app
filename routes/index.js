@@ -8,6 +8,7 @@ var indexController = require('../controllers/indexController')
 
 
 router.get('/', indexController.getAmlPrediction);
+//router.post('/', indexController.postPrediction);
 
 
 module.exports = router;
