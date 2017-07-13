@@ -1,1 +1,1 @@
-*when you do prediction means press the button it cost me(amazon charge me), so just removed AWS IAM access key & secret key.
+*when you do prediction means press the button it cost me(amazon charge me), so just removed AWS IAM access key & secret key for now(this project under progress).
