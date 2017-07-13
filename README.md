@@ -1,10 +1,11 @@
 1. Description  
   This is the contract prediction app using AWS ML.  
-  You can check people between 18 - 51(for now) will make the contract or not.  
-  When you'll get the rate mens how much will the customer make a contract.  
-
+  You can check whether people will make a contract or not by AWS ML model's prediction.  
+    
 2. Issue  
+   There are some issues for now so I am fixing these issues in parallel.
   * When trying to choose sex female param(male: 1, female:2), it causes error, so please use "0", instead of "2".  
+  * Age input is preferable between 20 -51 because sometimes AWS ML model is not work correctly.  
   * Accuracy is very low for now.  
   * some params cause error when using particular number.
 
