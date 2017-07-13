@@ -22,10 +22,10 @@
  
 5. Sample image  
   
-   <a href="https://ibb.co/jApv2v"><img src="https://preview.ibb.co/bZZ69a/Screen_Shot_2017_07_13_at_11_57_54.png" alt="Screen_Shot_2017_07_13_at_11_57_54" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>facebook image upload</a><br />  
+   <a href="https://ibb.co/jApv2v"><img src="https://preview.ibb.co/bZZ69a/Screen_Shot_2017_07_13_at_11_57_54.png" alt="Screen_Shot_2017_07_13_at_11_57_54" border="0"></a><br />
+       
      
-   
-  
-  <a href="https://ibb.co/cGc4vF"><img src="https://preview.ibb.co/inPTNv/Screen_Shot_2017_07_13_at_11_59_20.png" alt="Screen_Shot_2017_07_13_at_11_59_20" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>http upload image</a><br />  
+    
+  <a href="https://ibb.co/cGc4vF"><img src="https://preview.ibb.co/inPTNv/Screen_Shot_2017_07_13_at_11_59_20.png" alt="Screen_Shot_2017_07_13_at_11_59_20" border="0"></a><br />
     
       
