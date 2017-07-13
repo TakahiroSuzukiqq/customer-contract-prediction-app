@@ -23,15 +23,15 @@
  
         var PARAM_ID = "0"; 
         var PARAM_AGE = "27"; 
-        var PARAM_SEX = "2"; 
+        var PARAM_SEX = "0"; 
 
         var params = {
             MLModelId: ML_MODEL_ID, 
             PredictEndpoint: PREDICT_ENDPOINT, 
             Record: {
-                'id' : Integer,
-                'age' : Integer,
-                'sex' : Integer
+                'id' : PARAM_ID,
+                'age' : ARAM_AGE,
+                'sex' : PARAM_SEX 
             }
         };
         machinelearning.predict(params, function(err, data) {
