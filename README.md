@@ -29,5 +29,6 @@
     
   <a href="https://ibb.co/cGc4vF"><img src="https://preview.ibb.co/inPTNv/Screen_Shot_2017_07_13_at_11_59_20.png" alt="Screen_Shot_2017_07_13_at_11_59_20" border="0"></a><br />
     
-6. Relation image
+  
+6. Relation image  
   <a href="http://ibb.co/ffcZfF"><img src="http://preview.ibb.co/bK0WSv/AWSML_diagram.png" alt="AWSML_diagram" border="0"></a><br/>  
